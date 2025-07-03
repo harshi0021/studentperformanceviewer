@@ -1,0 +1,15 @@
+
+[
+  { "id": 1, "name": "Anjali", "course": "Python", "marks": 88 },
+  { "id": 2, "name": "Ravi", "course": "Java", "marks": 72 },
+  { "id": 3, "name": "Reddy", "course": "React", "marks": 91 },
+  { "id": 4, "name": "Aman", "course": "Python", "marks": 65 },
+  { "id": 5, "name": "Priya", "course": "Java", "marks": 85 },
+  { "id": 6, "name": "Kiran", "course": "React", "marks": 78 },
+  { "id": 7, "name": "Sneha", "course": "Python", "marks": 92 },
+  { "id": 8, "name": "Arjun", "course": "Java", "marks": 81 },
+  { "id": 9, "name": "Meera", "course": "React", "marks": 87 },
+  { "id": 10, "name": "Vikram", "course": "Python", "marks": 79 },
+  { "id": 11, "name": "Kavya", "course": "Java", "marks": 94 },
+  { "id": 12, "name": "Rohit", "course": "React", "marks": 83 }
+]
