@@ -32,7 +32,7 @@ const App = () => {
       await new Promise(resolve => setTimeout(resolve, 800));
       
       try {
-        // In real app, you would fetch from: fetch('/studentData.json')
+        fetch('/studentData.json')
         setStudents(studentData);
         setFilteredStudents(studentData);
       } catch (error) {
